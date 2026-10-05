@@ -1,35 +1,44 @@
 # 👋 Hi, I'm Fariya Mustakin Aditi
 
-🎓 CSE Student at Bangladesh Army University of Engineering & Technology (BAUET)
+### 🎓 CSE Student | Android & Web Developer
 
-💻 Interested in Software Development, Android Development & Web Technologies
+I'm a Computer Science and Engineering student at **Bangladesh Army University of Engineering & Technology (BAUET)**.
 
----
-
-## 🛠️ Skills
-
-- Java
-- Kotlin
-- Android Development
-- Jetpack Compose
-- HTML
-- CSS
-- JavaScript
-- Firebase
-- MySQL
+I enjoy building applications, learning new technologies, and improving my programming skills.
 
 ---
 
-## 🚀 My Projects
+## 💻 Tech Stack
+
+### Programming
+`Java` `Kotlin` `JavaScript`
+
+### Android
+`Android Development` `Jetpack Compose` `Firebase`
+
+### Web
+`HTML` `CSS` `JavaScript`
+
+### Database
+`MySQL` `Firebase Firestore`
+
+---
+
+## 🚀 Featured Projects
 
 ### 🗳️ Smart Ballot
-A smart online voting solution developed using Kotlin, Jetpack Compose and Firebase.
+**Smart Online Voting Solution**
+
+Kotlin • Jetpack Compose • Firebase
 
 ### 🎮 Pokémon Explorer
-A Pokémon web application using HTML, CSS, JavaScript and PokéAPI.
+**Interactive Pokémon Web Application**
+
+HTML • CSS • JavaScript • PokéAPI
 
 ### 🌐 Personal Website
-A personal web project built with HTML, CSS and JavaScript.
+
+HTML • CSS • JavaScript
 
 ---
 
@@ -39,12 +48,22 @@ A personal web project built with HTML, CSS and JavaScript.
 - Web Development
 - Database Management
 - Software Engineering
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+
+- Build useful software projects
+- Improve my programming skills
+- Learn modern development technologies
+- Create real-world applications
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [FARIYA233](https://github.com/FARIYA233)
+**GitHub:** [FARIYA233](https://github.com/FARIYA233)
 
 ---
 
